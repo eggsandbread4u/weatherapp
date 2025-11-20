@@ -4,7 +4,7 @@ from PyQt5.QtWidgets import *
 from PyQt5.QtCore import *
 from PyQt5.QtGui import *
 
-api_key = "bd2aaa5ae5764013ade132852252011"
+api_key = ""
 
 class weatherwindow(QWidget):
     def __init__(self):
